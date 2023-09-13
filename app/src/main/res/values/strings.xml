@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidComposeStudy</string>
+    <string name="title_activity_products_screen">ProductsScreen</string>
+</resources>
